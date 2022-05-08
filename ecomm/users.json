@@ -1,0 +1,14 @@
+[
+  {
+    "email": "steff@mail.bg",
+    "password": "52980ca15bf91621ed10494d7360f103af109c1c231e580de6ec9ada48eb1c433ed3cebcdaf0f6f2123cc15072623e6b8e05edb148e1dbacd32dcaedc145d43c.d71ffd05afd56a5b",
+    "id": "736bbcad",
+    "isActive": true
+  },
+  {
+    "email": "stefan@mail.bg",
+    "password": "bad6df447e3c7e8fe224182364942b3dd9a7fdef99641f2f7de2e00a60324848504b16d4e517190e4b80235b8f2f1c3fefa3173a4988ae56154ee8cdcb2ae7e0.7c16de55621b6905",
+    "id": "6dca7fe6",
+    "isActive": true
+  }
+]
